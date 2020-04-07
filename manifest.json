@@ -6,16 +6,11 @@
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "/public/media/800x800.png",
-      "type": "image/png",
-      "sizes": "800x800"
-  }
+    }
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#2d4059;",
+  "background_color": "#2d4059",
   "theme_color": "#2d4059",
-  "orientation": "portrait-primary"
+  "orientation": "landscape"
 }
